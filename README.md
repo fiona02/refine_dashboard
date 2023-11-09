@@ -9,13 +9,17 @@
 
 This [refine](https://github.com/refinedev/refine) project was generated with [superplate](https://github.com/pankod/superplate).
 
-<div flex flex-col-4 gap="20">
-  <img src="https://github.com/fiona02/refine_dashboard/blob/main/Loginpage.jpg" width="200px" />
-  <img src="https://github.com/fiona02/refine_dashboard/blob/main/allproperties.jpg" width="200px" />
-  <img src="https://github.com/fiona02/refine_dashboard/blob/main/homepage.jpg" width="200px" />
-  <img src="https://github.com/fiona02/refine_dashboard/blob/main/ipad-mini_responsive.jpg" width="200px" />
-  <img src="https://github.com/fiona02/refine_dashboard/blob/main/myprofile.jpg" width="200px" />
-  <img src="https://github.com/fiona02/refine_dashboard/blob/main/propertycardcontinued.jpg" width="200px" />
+<div flex flex-col-4>
+  <img src="https://github.com/fiona02/refine_dashboard/blob/main/Loginpage.jpg" width="500px" />
+  <img src="https://github.com/fiona02/refine_dashboard/blob/main/allproperties.jpg" width="500px" />
+  <img src="https://github.com/fiona02/refine_dashboard/blob/main/homepage.jpg" width="500px" />
+  <img src="https://github.com/fiona02/refine_dashboard/blob/main/ipad-mini_responsive.jpg" width="500px" />
+  <img src="https://github.com/fiona02/refine_dashboard/blob/main/myprofile.jpg" width="500px" />
+  <img src="https://github.com/fiona02/refine_dashboard/blob/main/propertycardcontinued.jpg" width="500px" />
+
+
+
+    
 ## Getting Started
 
 **refine** is a React-based framework for building data-intensive applications in no time ✨
